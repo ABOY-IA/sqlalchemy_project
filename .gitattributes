@@ -1,0 +1,6 @@
+# Applique LF aux fichiers texte
+# *.txt text eol=lf
+# *.py text eol=lf
+# *.md text eol=lf
+* text eol=lf
+
